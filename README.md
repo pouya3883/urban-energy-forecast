@@ -29,11 +29,13 @@ planning and helps reduce the gap between predicted and actual demand.
 
 ## Setup
 
+\`\`\`bash
 git clone https://github.com/pouya3883/urban-energy-forecast.git
 cd urban-energy-forecast
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+\`\`\`
 
 ## Project Structure
 
