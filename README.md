@@ -37,6 +37,12 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+### Data
+
+Raw data files are not included in this repository. Download the AEP hourly
+dataset from [Kaggle](https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption)
+and place `AEP_hourly.csv` inside the `data/` folder before running any scripts.
+
 ## Project Structure
 
 ## Results
